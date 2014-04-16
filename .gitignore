@@ -29,3 +29,6 @@ node_modules
 *.pdf
 *.gz
 *.aux
+
+#OSX files
+.DS_Store
